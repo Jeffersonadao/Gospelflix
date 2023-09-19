@@ -1,183 +1,180 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Louvores",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Louvores",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Pai nosso (Our Father) + Grandioso és Tu • DROPS",
+          "url": "https://www.youtube.com/watch?v=8B9Sw7FLD10"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Até Que Eu Não Consiga Mais Ficar de Pé - Daniel Berg + Theo Rubia (ao vivo)",
+          "url": "https://www.youtube.com/watch?v=A6J23QSRpEM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Luma Elpídio - Liberta-me de Mim (Video Oficial)",
+          "url": "https://www.youtube.com/watch?v=4vkhEgq3WvQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "ESPÍRITO DA VERDADE - TONY ALLYSSON",
+          "url": "https://www.youtube.com/watch?v=emo053wIgsE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "MEU PRAZER | EM ESPÍRITO, EM VERDADE - Koinonya",
+          "url": "https://www.youtube.com/watch?v=yDU_-KpSFts"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "ISAIAS SAAD - BONDADE DE DEUS (AO VIVO)",
+          "url": "https://www.youtube.com/watch?v=mZ9yZYo9Mmk"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "fhop music, Marco Telles | ÚNICO (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=0vCmIKyJPRI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "EMAÚS | MORADA FEAT. POIEMA MUSIC (CLIPE OFICIAL)",
+          "url": "https://www.youtube.com/watch?v=d7iMVvuZkyg"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Harpa Cristã",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Louvores da Harpa Cristã",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "SOSSEGAI-578 HARPA CRISTÃ",
+          "url": "https://www.youtube.com/watch?v=pqJZqvOHlfs"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "GUIA-ME SEMPRE MEU SENHOR - 141",
+          "url": "https://www.youtube.com/watch?v=YauGj7tAccQ"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "CONSAGRADO AO SENHOR - 432 ",
+          "url": "https://www.youtube.com/watch?v=PAPlpsJoRqE"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "HINO 422 - NO CÉU NÃO ENTRA PECADO",
+          "url": "https://www.youtube.com/watch?v=dHy19BFHA4k"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "MEU TESTEMUNHO-87 HARPA CRISTÃ ",
+          "url": "https://www.youtube.com/watch?v=mOpHLvfoo4o"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Cifras Louvor",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Cifras de Louvores",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Que ele Cresça - Deigma Marques ( Cifra e Letra )",
+          "url": "https://www.youtube.com/watch?v=NGMMoNPSoHY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Fernanda Brum | O que Sua Glória fez comigo | Cifra🎸",
+          "url": "https://www.youtube.com/watch?v=ib1F6cXQ1Qk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Bondade de Deus | Isaías Saad | Cifra",
+          "url": "https://www.youtube.com/watch?v=aCthNUgZ4N4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "PG - Eu vou passar pela Cruz (Cifra e Letra)",
+          "url": "https://www.youtube.com/watch?v=x7RinI-2nZA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Cifras Harpa-Cristã",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "2 - Saudosa Lembrança | Hino da Harpa | Cifra🎸",
+          "url": "https://www.youtube.com/watch?v=TIRZXv92kkE"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Consagrado ao SENHOR - com letra e cifra",
+          "url": "https://www.youtube.com/watch?v=POxIN7RvUMg"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "15 - Conversão | Hino da Harpa | Cifra🎸",
+          "url": "https://www.youtube.com/watch?v=ehL66rhfcSw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Sossegai - cifra",
+          "url": "https://www.youtube.com/watch?v=-ADvhVH4gRY"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Pregações",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Pregações",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "DEUS AGE NO INESPERADO | Camila Barros",
+          "url": "https://www.youtube.com/watch?v=rWn_E2LCq_8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Cláudio Duarte - Mude sua postura",
+          "url": "https://www.youtube.com/watch?v=MAPalQhBWl0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "COMO ESTÃO TUAS RESERVAS? | Camila Barros",
+          "url": "https://www.youtube.com/watch?v=WkUyR5Uu6mM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "FORÇA EM MEIO A FRAQUEZA - Hernandes Dias Lopes",
+          "url": "https://www.youtube.com/watch?v=fWOGFAnd-cw"
         }
+        
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Podcasts",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Podcasts",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "JULIANO SON | HUB Podcast - EP 179",
+          "url": "https://www.youtube.com/watch?v=sNUcQz3kzPM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "ADLIN RODRIGUES | HUB Podcast - EP 182",
+          "url": "https://www.youtube.com/watch?v=ZvSdMe_oeqo"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "BRUNÃO MORADA - JesusCopy Podcast #25",
+          "url": "https://www.youtube.com/watch?v=NbQxAZ7aGQE"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "CASSIANE (CANTORA) - JesusCopy Podcast #91",
+          "url": "https://www.youtube.com/watch?v=t3M2ktSjySE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "ANA PAULA VALADÃO | HUB Podcast - EP 85",
+          "url": "https://www.youtube.com/watch?v=VgAKvLhutpg"
         }
       ]
     }

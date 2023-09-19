@@ -12,6 +12,7 @@ function Footer() {
 
       <p>
         Desenvolvido por Jefferson Ferreira - 2023
+      
       </p>
     </FooterBase>
   );

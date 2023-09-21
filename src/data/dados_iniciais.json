@@ -102,6 +102,10 @@
     {
       "titulo": "Cifras Harpa-Cristã",
       "cor": "orange",
+      "link_extra": {
+        "text": "Cifras da Harpa Cristã",
+        "url": ""
+      },
       "videos": [
         {
           "titulo": "2 - Saudosa Lembrança | Hino da Harpa | Cifra🎸",

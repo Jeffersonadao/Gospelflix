@@ -1,14 +1,17 @@
 import React from 'react';
 import { FooterBase } from './styles';
-// import logo from './logo.png'
+import logo from './logo.png'
+import styles from '../Menu/Menu.module.css'
+
 
 function Footer() {
   return (
     <FooterBase>
-      {/* <img 
+      <img 
         src={logo} 
         alt="Logo Gospelflix"
-        className={} /> */}
+        className={styles.logo}
+        />
 
       <p>
         Desenvolvido por Jefferson Ferreira - 2023

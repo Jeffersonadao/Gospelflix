@@ -2,21 +2,23 @@ import React from 'react';
 import logo from '../../assets/imagens/logo.png'
 import styles from './Menu.module.css'
 import Botao from '../Botao';
+import { Link } from 'react-router-dom';
 
 function Menu () {
     return (
         <nav className={styles.menu} >
-            <a href='/' >
+            <Link to='/' >
                 <img 
                     className={styles.logo} 
                     src={logo} 
                     alt="logo da gospelflix" 
                 />
-            </a>
+            </Link>
 
             <Botao  
                 className={styles.botaolink}
-                href="/"
+                to="/novovideo"
+                as={Link}
             >
                 Novo vídeo
             </Botao>

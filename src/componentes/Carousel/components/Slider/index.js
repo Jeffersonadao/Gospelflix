@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
@@ -37,21 +38,22 @@ img {
 }
 `;
 
-
-const Slider = ({ children }) => (
+function Slider({ children }) {
+  return (
     <Container>
-        <SlickSlider {...{
+      <SlickSlider {...{
         dots: false,
         infinite: false,
         speed: 300,
         centerMode: false,
         variableWidth: true,
         adaptiveHeight: true,
-        }}
-        >
+      }}
+      >
         {children}
-        </SlickSlider>
+      </SlickSlider>
     </Container>
-);
+  );
+}
 
-export default Slider; 
+export default Slider;

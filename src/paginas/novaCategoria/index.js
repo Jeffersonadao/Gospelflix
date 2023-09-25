@@ -1,6 +1,6 @@
 /* eslint-disable react/button-has-type */
 /* eslint-disable react/jsx-no-bind */
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PaginaDefault from '../../componentes/PaginaDefault';
 import FormField from '../../componentes/FormField';
@@ -29,6 +29,21 @@ function NovaCategoria() {
       evento.target.value,
     );
   }
+
+  useEffect(() => {
+    if (window.location.href.includes('localhost')) {
+      const URL = 'http://localhost:4000/categorias';
+      fetch(URL)
+        .then(async (respostaDoServer) => {
+          if (respostaDoServer.ok) {
+            const resposta = await respostaDoServer.json();
+            setCategorias(resposta);
+            return;
+          }
+          throw new Error('Não foi possível pegar os dados');
+        });
+    }
+  }, []);
 
   return (
     <PaginaDefault>
@@ -77,6 +92,12 @@ function NovaCategoria() {
           Cadastrar
         </Botao>
       </form>
+
+      {categorias.length === 0 && (
+      <div>
+        Loading..
+      </div>
+      )}
 
       <ul>
         {categorias.map((categoria) => (

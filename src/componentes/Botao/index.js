@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const Botao = styled.a`
     color: var(--white);
@@ -19,6 +19,6 @@ const Botao = styled.a`
     &:focus {
         opacity: .5;
     }
-`
+`;
 
-export default Botao
+export default Botao;

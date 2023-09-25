@@ -1,0 +1,17 @@
+{
+    "categorias": [
+        {   
+            "id" : 1,
+            "nome": "Louvores",
+            "descricao": "Lista de louvores",
+            "cor": "#6BD1FF"
+        },
+        {   
+            "id" : 2,
+            "nome": "Harpa Cristã",
+            "descricao": "Louvores da harpa Cristã",
+            "cor": "#00C86F"
+        }
+    ]
+
+}
